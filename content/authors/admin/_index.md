@@ -66,4 +66,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Upload Soon
+Hardik Bagada is 3rd year B.Tech student, specializing in Computer Engineering. He is web developement team member at
+DSC DDU. He is quick learner, problem solver and passionate human being. Accroding to him, Time management is most important thing in current era. 

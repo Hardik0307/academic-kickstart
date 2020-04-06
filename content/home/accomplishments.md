@@ -19,33 +19,44 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Internshala"
+  organization_url = "https://internshala.com/"
+  title = "Web Development Training"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = "https://trainings.internshala.com/verify_certificate"
+  date_start = "2018-08-01"
   date_end = ""
-  description = ""
+  description = """ 
+  - Credential ID: 8F22B1AB-983F-B528-37C7-423110C9CCE3 
+  - HTML5
+  - CSS3 
+  - JS 
+  - PHP and MySQL"""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
+  organization = "Learn Digital with google"
+  organization_url = "https://learndigital.withgoogle.com/"
+  title = "The Fundamentals of Digital Marketing"
+  url = ""
+  certificate_url = "https://learndigital.withgoogle.com/digitalunlocked/validate-certificate-code"
   date_start = "2018-03-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = """ 
+  - Credential ID: R9S YNS GG5 
+  - SEO and Web Presence
+  - Business Strategy
+  - Deep Dive into Social Media
+  - Content Marketing
+  """
   
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+#[[item]]
+#  organization = "DataCamp"
+#  organization_url = "https://www.datacamp.com"
+#  title = "Object-Oriented Programming in R: S3 and R6 Course"
+#  url = ""
+#  certificate_url = "https://www.datacamp.com"
+#  date_start = "2017-07-01"
+#  date_end = "2017-12-21"
+#  description = ""
 
 +++
