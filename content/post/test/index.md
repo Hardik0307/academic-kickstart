@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Test"
-subtitle: "demo hai bhai"
+subtitle: "Demo is Here!"
 summary: ""
 authors: []
 tags: [data,test,demo]
