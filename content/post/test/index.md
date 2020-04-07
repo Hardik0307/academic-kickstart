@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Test"
-subtitle: "Demo is Here!"
+subtitle: "Demo is Here with disqus!"
 summary: ""
 authors: []
 tags: [data,test,demo]

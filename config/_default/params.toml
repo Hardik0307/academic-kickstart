@@ -215,7 +215,7 @@ plugins_js  = []
 
   # Configuration of Disqus.
   [comments.disqus]
-    shortname = "disqus_EdVJ6P7Qnt"  # Paste the shortname from your Disqus dashboard.
+    shortname = "https-hardik0307-github-io"  # Paste the shortname from your Disqus dashboard.
     show_count = true  # Show comment count in page header? (true/false)
 
   # Configuration of Commento.
