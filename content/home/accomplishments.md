@@ -17,6 +17,15 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[item]]
+  organization = "Qwiklabs"
+  organization_url = "https://www.qwiklabs.com/"
+  title = "Google Cloud Plateform Badges"
+  url = ""
+  certificate_url = "https://google.qwiklabs.com/public_profiles/1aa70873-fd2d-4113-8e70-b489f697375a"
+  date_start = "2020-04-01"
+  date_end = ""
+  description = """Qwiklabs provides lab learning environments that help developers and IT professionals get hands-on experience working with leading cloud platforms and software."""
 
 [[item]]
   organization = "Internshala"
