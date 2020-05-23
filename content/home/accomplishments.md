@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   certificate_url = "https://drive.google.com/file/d/1KQGchx1Xh3StAg8Hg3m0FaZnKFIzNR6R/view?usp=sharing"
   date_start = "2020-05-16"
   date_end = ""
-  description = """Product management microlearning course for software developers to understand software development life cycle."""
+  description = """Product management microlearning course for software developers to understand software development life cycle. """
 
 [[item]]
   organization = "Qwiklabs"
