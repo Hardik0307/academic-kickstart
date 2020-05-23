@@ -18,6 +18,16 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[item]]
+  organization = "Board Infinity"
+  organization_url = "https://www.boardinfinity.com/"
+  title = "Product Management Microlearning"
+  url = ""
+  certificate_url = "https://drive.google.com/file/d/1KQGchx1Xh3StAg8Hg3m0FaZnKFIzNR6R/view?usp=sharing"
+  date_start = "2020-05-16"
+  date_end = ""
+  description = """Product management microlearning course for software developers to understand software development life cycle."""
+
+[[item]]
   organization = "Qwiklabs"
   organization_url = "https://www.qwiklabs.com/"
   title = "Google Cloud Plateform Badges"
